@@ -1,0 +1,222 @@
+[
+    {
+      "MatchNumber": 16,
+      "RoundNumber": 1,
+      "DateUtc": "2023-09-08 00:20:00Z",
+      "Location": "GEHA Field at Arrowhead Stadium",
+      "HomeTeam": "Kansas City Chiefs",
+      "AwayTeam": "Detroit Lions",
+      "Group": null,
+      "HomeTeamScore": 20,
+      "AwayTeamScore": 21
+    },
+    {
+      "MatchNumber": 27,
+      "RoundNumber": 2,
+      "DateUtc": "2023-09-17 17:00:00Z",
+      "Location": "Ford Field",
+      "HomeTeam": "Detroit Lions",
+      "AwayTeam": "Seattle Seahawks",
+      "Group": null,
+      "HomeTeamScore": 31,
+      "AwayTeamScore": 37
+    },
+    {
+      "MatchNumber": 41,
+      "RoundNumber": 3,
+      "DateUtc": "2023-09-24 17:00:00Z",
+      "Location": "Ford Field",
+      "HomeTeam": "Detroit Lions",
+      "AwayTeam": "Atlanta Falcons",
+      "Group": null,
+      "HomeTeamScore": 20,
+      "AwayTeamScore": 6
+    },
+    {
+      "MatchNumber": 64,
+      "RoundNumber": 4,
+      "DateUtc": "2023-09-29 00:15:00Z",
+      "Location": "Lambeau Field",
+      "HomeTeam": "Green Bay Packers",
+      "AwayTeam": "Detroit Lions",
+      "Group": null,
+      "HomeTeamScore": 20,
+      "AwayTeamScore": 34
+    },
+    {
+      "MatchNumber": 72,
+      "RoundNumber": 5,
+      "DateUtc": "2023-10-08 17:00:00Z",
+      "Location": "Ford Field",
+      "HomeTeam": "Detroit Lions",
+      "AwayTeam": "Carolina Panthers",
+      "Group": null,
+      "HomeTeamScore": 42,
+      "AwayTeamScore": 24
+    },
+    {
+      "MatchNumber": 91,
+      "RoundNumber": 6,
+      "DateUtc": "2023-10-15 20:25:00Z",
+      "Location": "Raymond James Stadium",
+      "HomeTeam": "Tampa Bay Buccaneers",
+      "AwayTeam": "Detroit Lions",
+      "Group": null,
+      "HomeTeamScore": 6,
+      "AwayTeamScore": 20
+    },
+    {
+      "MatchNumber": 100,
+      "RoundNumber": 7,
+      "DateUtc": "2023-10-22 17:00:00Z",
+      "Location": "M&T Bank Stadium",
+      "HomeTeam": "Baltimore Ravens",
+      "AwayTeam": "Detroit Lions",
+      "Group": null,
+      "HomeTeamScore": 38,
+      "AwayTeamScore": 6
+    },
+    {
+      "MatchNumber": 107,
+      "RoundNumber": 8,
+      "DateUtc": "2023-10-31 00:15:00Z",
+      "Location": "Ford Field",
+      "HomeTeam": "Detroit Lions",
+      "AwayTeam": "Las Vegas Raiders",
+      "Group": null,
+      "HomeTeamScore": 26,
+      "AwayTeamScore": 14
+    },
+    {
+      "MatchNumber": 142,
+      "RoundNumber": 10,
+      "DateUtc": "2023-11-12 21:05:00Z",
+      "Location": "SoFi Stadium",
+      "HomeTeam": "Los Angeles Chargers",
+      "AwayTeam": "Detroit Lions",
+      "Group": null,
+      "HomeTeamScore": 38,
+      "AwayTeamScore": 41
+    },
+    {
+      "MatchNumber": 158,
+      "RoundNumber": 11,
+      "DateUtc": "2023-11-19 18:00:00Z",
+      "Location": "Ford Field",
+      "HomeTeam": "Detroit Lions",
+      "AwayTeam": "Chicago Bears",
+      "Group": null,
+      "HomeTeamScore": 31,
+      "AwayTeamScore": 26
+    },
+    {
+      "MatchNumber": 180,
+      "RoundNumber": 12,
+      "DateUtc": "2023-11-23 17:30:00Z",
+      "Location": "Ford Field",
+      "HomeTeam": "Detroit Lions",
+      "AwayTeam": "Green Bay Packers",
+      "Group": null,
+      "HomeTeamScore": 22,
+      "AwayTeamScore": 29
+    },
+    {
+      "MatchNumber": 187,
+      "RoundNumber": 13,
+      "DateUtc": "2023-12-03 18:00:00Z",
+      "Location": "Caesars Superdome",
+      "HomeTeam": "New Orleans Saints",
+      "AwayTeam": "Detroit Lions",
+      "Group": null,
+      "HomeTeamScore": 28,
+      "AwayTeamScore": 33
+    },
+    {
+      "MatchNumber": 203,
+      "RoundNumber": 14,
+      "DateUtc": "2023-12-10 18:00:00Z",
+      "Location": "Soldier Field",
+      "HomeTeam": "Chicago Bears",
+      "AwayTeam": "Detroit Lions",
+      "Group": null,
+      "HomeTeamScore": 28,
+      "AwayTeamScore": 13
+    },
+    {
+      "MatchNumber": 212,
+      "RoundNumber": 15,
+      "DateUtc": "2023-12-17 01:15:00Z",
+      "Location": "Ford Field",
+      "HomeTeam": "Detroit Lions",
+      "AwayTeam": "Denver Broncos",
+      "Group": null,
+      "HomeTeamScore": 42,
+      "AwayTeamScore": 17
+    },
+    {
+      "MatchNumber": 235,
+      "RoundNumber": 16,
+      "DateUtc": "2023-12-24 18:00:00Z",
+      "Location": "U.S. Bank Stadium",
+      "HomeTeam": "Minnesota Vikings",
+      "AwayTeam": "Detroit Lions",
+      "Group": null,
+      "HomeTeamScore": 24,
+      "AwayTeamScore": 30
+    },
+    {
+      "MatchNumber": 255,
+      "RoundNumber": 17,
+      "DateUtc": "2023-12-31 01:15:00Z",
+      "Location": "AT&T Stadium",
+      "HomeTeam": "Dallas Cowboys",
+      "AwayTeam": "Detroit Lions",
+      "Group": null,
+      "HomeTeamScore": 20,
+      "AwayTeamScore": 19
+    },
+    {
+      "MatchNumber": 261,
+      "RoundNumber": 18,
+      "DateUtc": "2024-01-07 18:00:00Z",
+      "Location": "Ford Field",
+      "HomeTeam": "Detroit Lions",
+      "AwayTeam": "Minnesota Vikings",
+      "Group": null,
+      "HomeTeamScore": 30,
+      "AwayTeamScore": 20
+    },
+    {
+      "MatchNumber": 277,
+      "RoundNumber": 19,
+      "DateUtc": "2024-01-15 01:15:00Z",
+      "Location": "Ford Field",
+      "HomeTeam": "Detroit Lions",
+      "AwayTeam": "Los Angeles Rams",
+      "Group": null,
+      "HomeTeamScore": 24,
+      "AwayTeamScore": 23
+    },
+    {
+      "MatchNumber": 281,
+      "RoundNumber": 20,
+      "DateUtc": "2024-01-21 20:00:00Z",
+      "Location": "Ford Field",
+      "HomeTeam": "Detroit Lions",
+      "AwayTeam": "Tampa Bay Buccaneers",
+      "Group": null,
+      "HomeTeamScore": 31,
+      "AwayTeamScore": 23
+    },
+    {
+      "MatchNumber": 284,
+      "RoundNumber": 21,
+      "DateUtc": "2024-01-28 23:30:00Z",
+      "Location": "Levi's® Stadium",
+      "HomeTeam": "San Francisco 49ers",
+      "AwayTeam": "Detroit Lions",
+      "Group": null,
+      "HomeTeamScore": 34,
+      "AwayTeamScore": 31
+    }
+  ]
